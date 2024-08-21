@@ -1,5 +1,5 @@
 ### Olá! meu nome é Adriano Dinarti👋
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-dinarti)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-dinarti-5a4803216/)
 
 ![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAdrianoDinarti&show_icons=true&theme=radical)
 
